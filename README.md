@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sanjulaganepola/">Sanjula Ganepola</a> 👋</h3>
 
-<h2 align="center">I'm a Software Developer @ <img src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/IBM.svg" alt="IBM" width="26px"/>!</h2>
+<h2 align="center">I'm a Software Developer @ <img alt="IBM" width="45px" style="vertical-align: middle;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/IBM.svg"/></h2>
 
 <p align="center">I am a recent Software Engineering and Management graduate from McMaster University, now putting my skills to work at IBM as a Software Developer. My current focus is on creating tools for developers on the IBM i platform and I am always eager to contribute to new projects!</p>
 
@@ -33,6 +33,3 @@
 ### 📋 My Awesome Stats
 
 ![Sanjula Ganepola's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjulaGanepola&show_icons=true&theme=tokyonight)
-
-### My Awesome Badges!
-
