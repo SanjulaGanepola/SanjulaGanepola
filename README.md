@@ -25,10 +25,14 @@
 [<img align="left" alt="MongoDB" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/mongodb.svg"/>]()
 [<img align="left" alt="Swagger" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/swagger.svg"/>]()
 
+<br/>
+
 ### 🤝 Connect With Me
 
 [<img align="left" alt="Sanjula Ganepola | LinkedIn" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/linkedin.svg"/>](https://www.linkedin.com/in/sanjulaganepola)
 [<img align="left" alt="Sanjula Ganepola | Gmail" width="29px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/gmail.svg"/>](mailto:sanjulagane@gmail.com)
+
+<br/>
 
 ### 📋 GitHub Stats
 
