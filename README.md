@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a Software Developer @ <img src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/IBM.svg" alt="IBM" width="26px"/>!</h2>
 
-I am a recent Software Engineering and Management graduate from McMaster University, now putting my skills to work at IBM as a Software Developer. My current focus is on creating tools for developers on the IBM i platform and I am always eager to contribute to new projects!
+<p align="center">I am a recent Software Engineering and Management graduate from McMaster University, now putting my skills to work at IBM as a Software Developer. My current focus is on creating tools for developers on the IBM i platform and I am always eager to contribute to new projects!</p>
 
 ### 🔭 I’m currently working on
 
