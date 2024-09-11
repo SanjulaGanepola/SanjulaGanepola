@@ -8,6 +8,7 @@
 
 * [IBM i Project Explorer](https://github.com/IBM/vscode-ibmi-projectexplorer): A VS Code extension to develop IBM i applications using buildable local projects.
 * [Mapepire Java](https://github.com/Mapepire-IBMi/mapepire-java): A Java client SDK that provides a new and convenient way to access Db2 on IBM i.
+* [Manzan](https://github.com/ThePrez/Manzan): A gateway for publishing IBM i events to a variety of endpoints including user applications, external resources, or open source technologies.
 * [IBM i Talks](https://github.com/SanjulaGanepola/ibmi-talks): A collection of IBM i talks that I have given or will be giving soon!
 
 ### 💼 Languages and Tools
