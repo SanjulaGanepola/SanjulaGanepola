@@ -12,19 +12,20 @@ I am a recent Software Engineering and Management graduate from McMaster Univers
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/vscode.svg" />
-<img align="left" alt="TypeScript" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/typescript.svg"  />
-<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/java.svg"  />
-<img align="left" alt="Maven" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/maven.svg"  />
-<img align="left" alt="MongoDB" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/mongodb.svg"  />
-<img align="left" alt="NodeJS" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/nodejs.svg"  />
-<img align="left" alt="NPM" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/npm.svg"  />
-<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/git.svg"  />
-<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/github.svg"  />
+[<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/vscode.svg"/>]()
+[<img align="left" alt="TypeScript" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/typescript.svg"/>]()
+[<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/java.svg"/>]()
+[<img align="left" alt="Maven" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/maven.svg"/>]()
+[<img align="left" alt="MongoDB" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/mongodb.svg"/>]()
+[<img align="left" alt="NodeJS" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/nodejs.svg"/>]()
+[<img align="left" alt="NPM" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/npm.svg"/>]()
+[<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/git.svg"/>]()
+[<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/github.svg"/>]()
 
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/sanjulaganepola"><img align="left" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/linkedin.svg" alt="Sanjula Ganepola | LinkedIn" width="21px"/></a>
-<a href="mailto: sanjulagane@gmail.com"><img align="left" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/gmail.svg" alt="Sanjula Ganepola | Email" width="21px"/></a>
+### 🤝 Connect with me
+
+[<img align="left" alt="Sanjula Ganepola | LinkedIn" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/linkedin.svg"/>](https://www.linkedin.com/in/sanjulaganepola)
+[<img align="left" alt="Sanjula Ganepola | Gmail" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/gmail.svg"/>](mailto:sanjulagane@gmail.com)
 
 ### My Awesome Status!
 
