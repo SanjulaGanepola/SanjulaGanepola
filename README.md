@@ -13,16 +13,16 @@
 ### 💼 Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/vscode.svg"/>]()
+[<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/git.svg"/>]()
+[<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>]()
 [<img align="left" alt="TypeScript" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/typescript.svg"/>]()
-[<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/java.svg"/>]()
-[<img align="left" alt="Maven" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/maven.svg"/>]()
-[<img align="left" alt="MongoDB" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/mongodb.svg"/>]()
 [<img align="left" alt="NodeJS" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/nodejs.svg"/>]()
 [<img align="left" alt="NPM" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/npm.svg"/>]()
-[<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/git.svg"/>]()
-[<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/github.svg"/>]()
+[<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/java.svg"/>]()
+[<img align="left" alt="Maven" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/maven.svg"/>]()
 [<img align="left" alt="Jest" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/jest.svg"/>]()
 [<img align="left" alt="Vitest" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/vitest.svg"/>]()
+[<img align="left" alt="MongoDB" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/mongodb.svg"/>]()
 [<img align="left" alt="Swagger" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SanjulaGanepola/SanjulaGanepola/main/images/swagger.svg"/>]()
 
 ### 🤝 Connect With Me
