@@ -4,6 +4,12 @@
 
 <p align="center">I am a recent Software Engineering and Management graduate from McMaster University, now putting my skills to work at IBM as a Software Developer. My current focus is on creating tools for developers on the IBM i platform and I am always eager to contribute to new projects!</p>
 
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=SanjulaGanepola&repo=github-visitors-badge&countColor=%234290F7" />
+   </a>
+</p>
+
 ### 🔭 Current Projects
 
 * [IBM i Project Explorer](https://github.com/IBM/vscode-ibmi-projectexplorer): A VS Code extension to develop IBM i applications using buildable local projects.
